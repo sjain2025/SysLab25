@@ -4,7 +4,11 @@ Graph coloring, a NP-complete problem that involves assigning colors to vertices
 To test this code, clone this repository to Visual Studio Code and run the Python file **main.py**. It will output a PNG of the Grover's circuit (grovers_circuit.png) and a figure of the 50 states, generated using GeoPandas and Matplotlib.
 
 Please ensure that you have the following dependencies downloaded before running the file:
+
 **NumPy:** pip install numpy
+
 **Qiskit:** pip install qiskit
+
 **Matplotlib:** pip install matplotlib
+
 **GeoPandas:** pip install geopandas
