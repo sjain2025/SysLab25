@@ -1,0 +1,12 @@
+{
+    "name": "GraphColoring",
+    "version": "1.0.0",
+    "entry_points": [
+      {
+        "name": "Main",
+        "kind": "operation",
+        "namespace": "GraphColoring",
+        "path": "src/Main.qs"
+      }
+    ]
+  }
